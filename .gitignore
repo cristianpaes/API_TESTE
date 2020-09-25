@@ -1,0 +1,6 @@
+*.pyc
+.idea
+venv
+*.db
+*.sqbpro
+db.sqlite3
